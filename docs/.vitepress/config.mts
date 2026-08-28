@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'phoenix.dev',
+  title: '世末涅槃',
   description: '个人文章、随笔、学习记录、项目记录与工具收藏。',
   base: '/phoenix.dev/',
   lang: 'zh-CN',
@@ -15,7 +15,7 @@ export default defineConfig({
   ],
   themeConfig: {
     logo: '/images/logo.svg',
-    siteTitle: 'phoenix.dev',
+    siteTitle: '世末涅槃',
     nav: [
       { text: '首页', link: '/' },
       { text: '随笔', link: '/notes/' },

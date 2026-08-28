@@ -19,6 +19,14 @@ lastUpdated: false
     </div>
   </section>
 
+  <section class="home-beliefs" aria-labelledby="life-beliefs">
+    <p class="home-beliefs-label" id="life-beliefs">目前的人生信条</p>
+    <div class="home-beliefs-lines">
+      <p>做点有意思的事</p>
+      <p>用生命影响生命</p>
+    </div>
+  </section>
+
   <section class="home-section" aria-labelledby="recent-updates">
     <h2 id="recent-updates">最近更新</h2>
     <ol class="home-updates">
