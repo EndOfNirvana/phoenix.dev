@@ -8,14 +8,14 @@ lastUpdated: false
 
 <main class="home-shell">
   <section class="home-hero">
-    <p class="home-kicker">个人内容与长期记录</p>
+    <p class="home-kicker">写作 / 学习 / 项目记录</p>
     <h1 class="home-title">phoenix.dev</h1>
     <p class="home-intro">
-      这里用来保存我的文章、随笔、学习笔记、项目记录和工具收藏。它更像一间长期整理的书房，而不是一个临时发布页。
+      把零散想法、学习过程、项目笔记和工具收藏放在这里。慢慢写，持续整理，也给未来的自己留下一条清晰的线索。
     </p>
     <div class="home-actions">
       <a class="home-button primary" href="/phoenix.dev/notes/">开始阅读</a>
-      <a class="home-button" href="/phoenix.dev/about.html">关于我</a>
+      <a class="home-button" href="/phoenix.dev/projects/">项目记录</a>
     </div>
   </section>
 
