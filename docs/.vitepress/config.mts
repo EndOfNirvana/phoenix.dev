@@ -14,7 +14,7 @@ export default defineConfig({
     ['meta', { name: 'color-scheme', content: 'light dark' }]
   ],
   themeConfig: {
-    logo: '/images/logo.svg',
+    logo: '/images/logo-infinity.svg',
     siteTitle: '世末涅槃',
     nav: [
       { text: '首页', link: '/' },
