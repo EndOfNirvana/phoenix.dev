@@ -4,4 +4,5 @@
 
 ## 文章
 
+- [《大道：段永平投资问答录》投资思维整理](./duan-yongping-investing-qa.md)
 - [VitePress 学习记录](./vitepress-notes.md)
