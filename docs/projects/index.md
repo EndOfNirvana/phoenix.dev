@@ -5,3 +5,4 @@
 ## 文章
 
 - [phoenix.dev 建站记录](./phoenix-dev.md)
+- [小论文写作](./paper-writing/)：从了解领域到投稿的十节写作流程，先看总览，再按需阅读各节。

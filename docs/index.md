@@ -31,6 +31,10 @@ lastUpdated: false
     <h2 id="recent-updates">最近更新</h2>
     <ol class="home-updates">
       <li>
+        <time datetime="2026-10-21">2026-10-21</time>
+        <a href="/phoenix.dev/projects/paper-writing/">小论文写作：总览与十节流程</a>
+      </li>
+      <li>
         <time datetime="2026-08-28">2026-08-28</time>
         <a href="/phoenix.dev/notes/my-first-note.html">第一篇随笔</a>
       </li>

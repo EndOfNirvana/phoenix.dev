@@ -48,7 +48,25 @@ export default defineConfig({
           text: '项目',
           items: [
             { text: '项目总览', link: '/projects/' },
-            { text: 'phoenix.dev 建站记录', link: '/projects/phoenix-dev' }
+            { text: 'phoenix.dev 建站记录', link: '/projects/phoenix-dev' },
+            {
+              text: '小论文写作',
+              link: '/projects/paper-writing/',
+              collapsed: false,
+              items: [
+                { text: '流程总览', link: '/projects/paper-writing/' },
+                { text: '第一节 了解领域', link: '/projects/paper-writing/01-understand-field' },
+                { text: '第二节 了解方法', link: '/projects/paper-writing/02-understand-methods' },
+                { text: '第三节 粗略组合思路', link: '/projects/paper-writing/03-form-ideas' },
+                { text: '第四节 细化组合思路', link: '/projects/paper-writing/04-refine-ideas' },
+                { text: '第五节 验证', link: '/projects/paper-writing/05-validate' },
+                { text: '第六节 完成代码', link: '/projects/paper-writing/06-implement' },
+                { text: '第七节 撰写中文初稿', link: '/projects/paper-writing/07-chinese-draft' },
+                { text: '第八节 翻译英文初稿', link: '/projects/paper-writing/08-english-draft' },
+                { text: '第九节 打磨稿件', link: '/projects/paper-writing/09-revise' },
+                { text: '第十节 投稿', link: '/projects/paper-writing/10-submit' }
+              ]
+            }
           ]
         }
       ],
